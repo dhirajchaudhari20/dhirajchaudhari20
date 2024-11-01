@@ -7,7 +7,7 @@ Passionate about technology, coding, and sharing knowledge—whether through blo
 🔗 **[LinkedIn](https://www.linkedin.com/in/dhirajchaudhari20)** | **[Website](https://dhirajchaudhari.me)**
 
 ## 🌟 Skills
-- Android Development, Google Cloud, Kubernetes, Python, Web Development, WordPress
+- Google Cloud, Kubernetes, Android Development, Python, Web Development, WordPress
 ---
 
 Let's connect to explore exciting opportunities and innovative solutions in tech!
