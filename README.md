@@ -10,7 +10,8 @@ Passionate about technology, coding, and sharing knowledge whether through blog 
 - **Cloud & DevOps**: Google Cloud, Kubernetes
 - **Mobile Development**: Android Development
 - **Programming Languages**: Python
-- **Web Development**: Web Development, WordPress
+- **Web Dev**: Web Development, WordPress, Docker
+
 
 
 Let's connect to explore exciting opportunities and innovative solutions in tech!
